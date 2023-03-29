@@ -5,10 +5,10 @@ This repo is dedicated to exploring design/programming topics through technical 
 ## Articles
 Below is a list of articles currently available in this repo:
 
-[ChangeLog](CHANGELOG.md)
+- [Event-Driven Design](topics/Event-driven%20design.md)
 
-...
-Contributing
+# Contributing
+
 We welcome contributions to this repo! If you're interested in writing an article, please follow these guidelines:
 
 Choose a topic related to advanced programming concepts that you're passionate about.
